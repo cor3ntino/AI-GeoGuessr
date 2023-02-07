@@ -10,7 +10,6 @@ __pycache__/
 cities/
 images-test/
 precomputed_bis/
-cities-final.tsv
 
 # Code
 test.py
