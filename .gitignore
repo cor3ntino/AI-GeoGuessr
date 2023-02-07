@@ -1,0 +1,17 @@
+# Virtual Env
+env/
+activate
+
+# VSCode
+.vscode/
+__pycache__/
+
+# Data
+cities/
+images-test/
+precomputed_bis/
+cities-final.tsv
+
+# Code
+test.py
+test_bis.py
