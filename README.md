@@ -1,6 +1,7 @@
 # GeoGuessr
 
 The aim of GeoGuessr is to determine the location of a picture, based only of its visual content.
+You can try and play with it online [here](https://ai-geoguessr.streamlit.app/).
 
 ## Local Installation
 
@@ -15,7 +16,7 @@ source activate
 
 pip install -r requirements.txt
 ```
-## Try this feature
+## Try this feature locally
 
 To test this geolocation feature, or play a 10-points GeoGuessr game against the AI, just run:
 
